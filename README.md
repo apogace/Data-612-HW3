@@ -1,1 +1,5 @@
-# Data-612-HW3
+First, I found a seaborn dataset called 'penguins to look at more closely. The dataset had 344 rows with seven columns. 
+The features in this dataset include, 'species', 'island',	'bill_length_mm',	'bill_depth_mm', 'flipper_length_mm',	'body_mass_g', and 'sex'.
+After looking at how many different species there were in the dataset, I made a bar chart showing how many males and females there were. The results show the dataset has an equal number of both sexes. 
+Next, I made two different scatterplots looking at the relationship between the body mass of the penguins and their flipper/bill length. The scatterplots showed pretty strong correlations between body mass and the two other variables.
+Finally, I created three different histograms for each of the three species plus a combined histogram of all penguin species put together. These histograms showed the Gentoo penguin species tended to have a higher body mass when compared to the other two species, while the Chinstrap penguin species seemed to be the most concentrated around a body mass of 3200- 4200 grams.
